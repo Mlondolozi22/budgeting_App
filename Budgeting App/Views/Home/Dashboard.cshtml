@@ -1,0 +1,83 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* Mobile-like UI styling */
+        .mobile-container {
+            width: 360px;
+            max-width: 100%;
+            margin: auto;
+            border: 3px solid #333;
+            border-radius: 20px;
+            box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+            background: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .btn-block {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 12px;
+            font-size: 16px;
+        }
+
+        .chart-container {
+            width: 100%;
+            height: 250px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="mobile-container">
+    <h2>📊 SmartBudget Dashboard</h2>
+
+    <!-- Pie Chart -->
+    <div class="chart-container">
+        <canvas id="expenseChart"></canvas>
+    </div>
+
+    <hr>
+
+    <!-- Navigation Buttons -->
+    <a href="/Register" class="btn btn-primary btn-block">🔹 Register</a>
+    <a href="/Login" class="btn btn-secondary btn-block">🔹 Login</a>
+    <a href="/CreateCategory" class="btn btn-success btn-block">🔹 Create Category</a>
+    <a href="/AddExpense" class="btn btn-info btn-block">🔹 Add Expense</a>
+    <a href="/SetBudget" class="btn btn-warning btn-block">🔹 Set Monthly Budget</a>
+    <a href="/ViewExpenses" class="btn btn-dark btn-block">🔹 View Expenses</a>
+    <a href="/Achievements" class="btn btn-danger btn-block">🔹 Achievements</a>
+</div>
+
+<!-- Pie Chart Script -->
+<script>
+    var ctx = document.getElementById('expenseChart').getContext('2d');
+    var expenseChart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: ["Groceries", "Entertainment", "Transport", "Bills"],
+            datasets: [{
+                label: 'Category Spending',
+                data: [30, 25, 15, 30], // Dummy percentages
+                backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4CAF50'],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false
+        }
+    });
+</script>
+
+</body>
+</html>

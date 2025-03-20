@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "View Expenses";
+}
+
+<div class="container">
+    <h2>View Expenses</h2>
+    <form>
+        <div class="form-group">
+            <label for="dateRange">Select Period</label>
+            <input type="date" class="form-control" id="startDate" placeholder="Start Date" />
+            <input type="date" class="form-control" id="endDate" placeholder="End Date" />
+        </div>
+        <button type="submit" class="btn btn-primary">View Expenses</button>
+    </form>
+    <h3>Expenses List</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Description</th>
+                <th>Amount</th>
+                <th>Category</th>
+                <th>Receipt</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>01-03-2025</td>
+                <td>Groceries</td>
+                <td>$150</td>
+                <td>Groceries</td>
+                <td><a href="#">View</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

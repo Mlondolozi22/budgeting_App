@@ -1,0 +1,30 @@
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\bin\Debug\net8.0\Budgeting App.staticwebassets.runtime.json
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\bin\Debug\net8.0\Budgeting App.exe
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\bin\Debug\net8.0\Budgeting App.deps.json
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\bin\Debug\net8.0\Budgeting App.runtimeconfig.json
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\bin\Debug\net8.0\Budgeting App.dll
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\bin\Debug\net8.0\Budgeting App.pdb
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.AssemblyInfo.cs
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\staticwebassets\msbuild.Budgeting App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\staticwebassets\msbuild.build.Budgeting App.props
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Budgeting App.props
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Budgeting App.props
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\scopedcss\bundle\Budgeting App.styles.css
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\scopedcss\projectbundle\Budgeting App.bundle.scp.css
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.dll
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\refint\Budgeting App.dll
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.pdb
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\Budgeting App.genruntimeconfig.cache
+C:\Users\admin\source\repos\Budgeting App\Budgeting App\obj\Debug\net8.0\ref\Budgeting App.dll
